@@ -1,0 +1,11 @@
+id,age,status,stroke
+1000,53,smoke,1
+1001,21,smoke,1
+1002,79,never,0
+1003,73,smoke,1
+1004,53,never,0
+1005,52,never,1
+1006,37,former,0
+1007,42,former,0
+1008,16,never,0
+1009,54,never,1
